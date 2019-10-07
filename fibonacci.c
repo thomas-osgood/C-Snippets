@@ -3,7 +3,7 @@
  *
  * Print out 'n' fibonacci numbers iteratively.
  *
- * to compile: gcc -o Question1 Question1.c
+ * to compile: gcc -o fibonacci fibonacci.c
  */
 
 #include <stdio.h>

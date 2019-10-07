@@ -3,7 +3,7 @@
  *
  * Print out max value in an unsorted array.
  *
- * to compile: gcc -o Question4 Question4.c
+ * to compile: gcc -o find_max find_max.c
  */
 
 #include <stdio.h>
